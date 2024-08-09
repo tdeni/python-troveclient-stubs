@@ -1,12 +1,19 @@
 [tool.poetry]
 name = "python-troveclient-stubs"
-version = "0.1.0"
-description = ""
+version = "0.1.2"
+description = "Type annotations for python-troveclient"
 authors = ["Deni Tazurkaev <sha256deni@gmail.com>"]
-license = "Apache-2.0 license"
+license = "Apache Software License"
 readme = "README.md"
 repository = "https://github.com/tdeni/python-troveclient-stubs"
 classifiers = [
+  "Development Status :: 3 - Alpha",
+  "Environment :: OpenStack",
+  "Intended Audience :: Information Technology",
+  "Intended Audience :: System Administrators",
+  "License :: OSI Approved :: Apache Software License",
+  "Operating System :: POSIX :: Linux",
+  "Typing :: Stubs Only",
   "Programming Language :: Python",
   "Programming Language :: Python :: 3",
   "Programming Language :: Python :: 3 :: Only",
